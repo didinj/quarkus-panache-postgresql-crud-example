@@ -1,6 +1,6 @@
 # Simplify Your Data Access with Quarkus Panache: CRUD Example Included
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/688846811416a04354e5e9ab/simplify-your-data-access-with-quarkus-panache-crud-example-included).
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
